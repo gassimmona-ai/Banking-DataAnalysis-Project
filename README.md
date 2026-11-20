@@ -1,4 +1,4 @@
-![Dataanalysis BAnkind Data](C:\Users\kheirawi\Downloads\Banking Practise\Banking Practise\OverView.png)
+<img width="321" height="231" alt="image" src="https://github.com/user-attachments/assets/a24833cf-ffb0-434a-b265-c1a96377e595" />
 
 # Banking-DataAnalysis-Project
 Banking DataAnalysis project to analyse issues related to transactions and customers
