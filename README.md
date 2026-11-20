@@ -1,5 +1,10 @@
 <img width="625" height="374" alt="OverView" src="https://github.com/user-attachments/assets/079b174e-3add-4a0b-b208-18ee184efd40" />
+<img width="622" height="371" alt="Loan_Table" src="https://github.com/user-attachments/assets/3cc907a5-dfe9-493b-90fc-08fa70d538dd" />
 
+<img width="649" height="361" alt="Customers" src="https://github.com/user-attachments/assets/e66d5d7d-eb4e-4179-a9a8-61c6ec4d525c" />
+<img width="630" height="361" alt="CustomerCalls" src="https://github.com/user-attachments/assets/d1fa7f82-2f31-4ac4-8d55-8c2929478326" />
+<img width="603" height="362" alt="Loans" src="https://github.com/user-attachments/assets/4b8128c7-4854-48f9-9028-5fd63e0da625" />
+<img width="627" height="364" alt="Transactions" src="https://github.com/user-attachments/assets/bb86aeda-d385-437f-8832-1895f0053170" />
 
 # Banking-DataAnalysis-Project
 Banking DataAnalysis project to analyse issues related to transactions and customers
